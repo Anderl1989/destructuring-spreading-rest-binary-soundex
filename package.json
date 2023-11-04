@@ -1,0 +1,17 @@
+{
+  "name": "destructuring-spreading-rest-binary-soundex",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "licenses": [
+    {
+      "type": "ODbL-1.0",
+      "url": "https://opendatacommons.org/licenses/odbl/1.0/"
+    }
+  ]
+}
